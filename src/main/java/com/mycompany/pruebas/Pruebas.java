@@ -16,6 +16,9 @@ public class Pruebas {
        String hola = JOptionPane.showInputDialog("Ingresar nombre") ;
         String jaja = JOptionPane.showInputDialog("Ingresar tu edad " + hola) ;
         System.out.println("Prueba " + hola +" "+ jaja);
+          String jajai = JOptionPane.showInputDialog("Ingresar nombre") ;
+        String dimelo = JOptionPane.showInputDialog("Ingresar tu edad " + hola) ;
+        System.out.println("Prueba " + jajai +" "+ dimelo);
     }
 }
 
